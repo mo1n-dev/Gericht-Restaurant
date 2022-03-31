@@ -1,6 +1,6 @@
 ## Preview
 
-Preview the App live on [Vercel](https://vercel.com/): https://book-shop-nu.vercel.app/
+Preview the App live on https://visionary-dolphin-252598.netlify.app
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
